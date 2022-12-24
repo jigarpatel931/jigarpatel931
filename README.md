@@ -3,14 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarpatel931&label=Profile%20views&color=0e75b6&style=flat" alt="jigarpatel931" /> </p>
 
+I've been working with data for over 3+ years and now work as a Data Analyst using data to help inform business decisions.
+
 - 👨‍💻 All of my projects are available at [https://jigarpatel931.github.io/](https://jigarpatel931.github.io/)
 
 - 💬 Ask me about **data & statistics**
 
 - 🌱 Currently enhancing my skills for machine learning, Power Bi & Tableau.
 
-- 📫 How to reach me **pateljigarr136@gmail.com**
+- 👨‍💻 Tableau public projects are available at https://public.tableau.com/app/profile/jigarpatel136#!/
 
+- 📫 How to reach me **pateljigarr136@gmail.com**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jigarpatel136" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jigarpatel136" height="30" width="40" /></a>
