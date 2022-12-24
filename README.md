@@ -5,7 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://jigarpatel931.github.io/](https://jigarpatel931.github.io/)
 
-- 💬 Ask me about **data, statistics.**
+- 💬 Ask me about **data & statistics**
+
+- 🌱 Currently enhancing my skills for machine learning, Power Bi & Tableau.
 
 - 📫 How to reach me **pateljigarr136@gmail.com**
 
