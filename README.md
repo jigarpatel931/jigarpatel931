@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Jigar</h1>
-<h3 align="left">I'm passionate for data analysis.</h3>
+<h3 align="left">I enjoy working with numbers. In my free time, I play suduko & chess.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jigarpatel931&label=Profile%20views&color=0e75b6&style=flat" alt="jigarpatel931" /> </p>
 
