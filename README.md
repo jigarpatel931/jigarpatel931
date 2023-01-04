@@ -11,7 +11,7 @@ I've been working with data for over 3+ years and now work as a Data Analyst usi
 
 - 🌱 Currently enhancing my skills for Machine learning, Power BI & Tableau
 
-- 👨‍💻 Have started writing blogs on data science
+- 👨‍💻 Have started writing blogs on data science : https://medium.com/@pateljigarr136
  
 - 📫 How to reach me **pateljigarr136@gmail.com**
  
