@@ -28,4 +28,4 @@ I've been working with data for over 3+ years and now work as a Data Analyst usi
 
 <h3 align="left">⭐ Data Viz Projects </h3>
 <p align="left">
-<a href="https://public.tableau.com/app/profile/jigarpatel136#!/" target="_blank"><img align="center" src="https://github.com/jigarpatel931/jigarpatel931.github.io/blob/6e6cb38d80d5c3454a924013cad9b06253b75cdb/images/Churn%20dashboard.png" alt="Tableau_porfolio" height="200" width="300" /></a> </p>
+<a href="https://public.tableau.com/app/profile/jigarpatel136#!/" target="_blank"><img align="center" src="https://github.com/jigarpatel931/jigarpatel931.github.io/blob/6e6cb38d80d5c3454a924013cad9b06253b75cdb/images/Churn%20dashboard.png" alt="Tableau_porfolio" height="200" width="300" /></a> <a href="https://app.powerbi.com/view?r=eyJrIjoiYmExOTI1ZmMtZjQ3My00YWUzLTk4NGYtOThmMGM0ZmIwM2RlIiwidCI6ImQzYmY3MzMxLWJlNDYtNDhjOC04YzczLTdkN2I0NDcxMTQ3YSJ9&embedImagePlaceholder=true" target="_blank"><img align="center" src="https://github.com/jigarpatel931/jigarpatel931.github.io/blob/6e6cb38d80d5c3454a924013cad9b06253b75cdb/images/Facebook_campaign.JPG" alt="Power_BI_Report" height="200" width="300" /></a> </p>
